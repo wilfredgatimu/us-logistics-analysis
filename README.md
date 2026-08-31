@@ -3,7 +3,7 @@
 **Analyzing $401.9K Spend | 1,806 Shipments | 9 Pages | Built in Nairobi, KE**
 `Power BI | DAX | Forecasting | Supply Chain Analytics`
 
-### 📸 Live Preview
+###  Live Preview
 ![Overview](Us_logistics_Overview.png)
 
 ### 🔍 Key Business Findings
@@ -27,7 +27,7 @@
   ![Forecasting](Us_Logistics_Forecasting.png)
 
   ![Weight_Carrier](Us_Logistics_Weight_Carrier.png)
-### 📑 Dashboard Pages
+### Dashboard Pages
 1. **OVERVIEW** - KPIs: $401K cost, 1.8K shipments, 59K kg, OTD%
 2. **CARRIER_PERFORMANCE** - Carrier share, avg delivery time
 3. **COST_ANALYSIS** - Cost by month, cost per mile trends
@@ -38,15 +38,15 @@
 8. **FORECASTING** - 3-month cost & volume forecast
 9. **WEIGHT_CARRIER_MIX** - Weight vs carrier cost correlation
 
-### 🛠️ Tech Stack
+### Tech Stack
 - Power BI Desktop, DAX Measures, Power Query, Forecasting, What-If Analysis
 - Data Cleaning, Storytelling, Executive KPIs
 
-### 📁 Files
+### Files
 - `Us Logistics.pbix` - Full interactive dashboard (download to explore)
 - `Us_Logistics_*.png` - 9 high-res screenshots
 
-### 🚀 How to View
+### How to View
 1. Download `Us Logistics.pbix`
 2. Open in Power BI Desktop (free)
 3. Interact with slicers & forecasts
