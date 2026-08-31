@@ -1,7 +1,7 @@
 # US Logistics Performance & Cost Optimization | Power BI Dashboard
 
 **Analyzing $401.9K Spend | 1,806 Shipments | 9 Pages | Built in Nairobi, KE**
-`Power BI | DAX | Forecasting | Supply Chain Analytics`
+`Power BI | SQL | DAX | Forecasting | Supply Chain Analytics`
 
 ###  Live Preview
 ![Overview](Us_logistics_Overview.png)
