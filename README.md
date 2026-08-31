@@ -39,7 +39,7 @@
 9. **WEIGHT_CARRIER_MIX** - Weight vs carrier cost correlation
 
 ### Tech Stack
-- Power BI Desktop, DAX Measures, Power Query, Forecasting, What-If Analysis
+-MySQL, Power BI Desktop, DAX Measures, Power Query, Forecasting, What-If Analysis
 - Data Cleaning, Storytelling, Executive KPIs
 
 ### Files
