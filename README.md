@@ -52,5 +52,5 @@
 3. Interact with slicers & forecasts
 
 ---
-**Author:** Wilfred Gatimu - Data Analyst | Logistics & Telco Analytics
-[LinkedIn] | Nairobi, Kenya 2026
+**Author:** Wilfred Gatimu - Data Analyst |
+ Nairobi, Kenya 2026
